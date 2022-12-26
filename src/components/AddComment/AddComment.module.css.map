@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,CAAC;EACJ,OAAO,EAAE,IAAI;EACb,UAAU,EAAE,IAAI;EAChB,cAAc,EAAE,IAAI;EACpB,YAAY,EAAE,IAAI;EAClB,WAAW,EAAE,IAAI;CAClB;;AAED,AAAA,OAAO,CAAC;EACN,YAAY,EAAE,IAAI;CACnB;;AAED,AAAA,KAAK,CAAC;EACJ,KAAK,EAAE,IAAI;CAKZ;;AAND,AAGE,KAHG,CAGH,MAAM,CAAC;EACL,UAAU,EAAE,IAAI;CACjB",
+    "sources": [
+        "AddComment.module.scss"
+    ],
+    "names": [],
+    "file": "AddComment.module.css"
+}
